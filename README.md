@@ -10,10 +10,3 @@ This repository contains multiple examples showing how to use TF–IDF for text 
 3. **Feature Selection** — View top terms by TF-IDF weight.
 4. **Sentiment Classification** — Train a simple classifier using TF-IDF.
 5. **Save/Load Vectorizer** — Persist and reuse TF-IDF models.
-
-
-## Installation
-```bash
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
